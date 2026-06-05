@@ -1,7 +1,11 @@
 # Loan Repayment QuAM: Predicting Customer Defaults & Repayment Latency
 
+
 ### Authors
-Junaid Yusuf (jyusuf) and Hussain Bin Usman (hussainu)
+Junaid Yusuf and Hussain Bin Usman
+
+## Final Program Demo Link
+youtube.com/watch?v=xHae5QtzLD8
 
 ## Project Description
 
@@ -15,9 +19,9 @@ The software supports two main prediction tasks:
 
 For classification, the final model used is a Kernel SVM. For regression, the final model used is a Decision Tree Regressor. These decisions are based on the comprehensive iteration testing that were made under `QuAM_report`.
 
-## Submission Contents
+## QuAM Folder Contents
 
-The submitted folder contains the following files:
+The QuAM (Query Answering Machine) folder contains the following files:
 
 - `main.py`: main file used to launch the QuAM interface
 - `interface.py`: contains the main Tkinter interface and user interaction
